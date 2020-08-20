@@ -15,10 +15,10 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Site Title"
+locale                   : "ko-KR"
+title                    : "Partice Website"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "made by Gtavexir"
 name                     : "Your Name"
 description              : "An amazing website."
 url                      : "https://Gtavexir.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
