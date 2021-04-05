@@ -1,1 +1,1 @@
-# Partice Page
+# Pratice Page
